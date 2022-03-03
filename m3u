@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",RCTI
+
+http://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/8e0c72d07381c32430e20.jpg" group-title="INDONESIA",SCTV
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=sctv&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/34d214944c97db06b00c8.jpg" group-title="INDONESIA", INDOSIAR
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",MNC TV
+
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",G TV
+
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",I NEWS
+
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/e3ab521b6a88029be8a0b.jpg" group-title="INDONESIA",TRANS TV
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=transtv&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/70cdad8c1bd6bd0df6471.jpg" group-title="INDONESIA",TRANS 7
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=trans7&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",NET
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=net&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",METRO
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=metrotv&goodbye=Khoerul_Television=0
+
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",KOMPAS
+
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=kompastv&goodbye=Khoerul_Television=0
