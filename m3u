@@ -1,45 +1,37 @@
 #EXTM3U
-
-#EXTINF:-1  tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",RCTI
-
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",RCTI
 http://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/8e0c72d07381c32430e20.jpg" group-title="INDONESIA",SCTV
-
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=sctv&goodbye=Khoerul_Television=0
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/34d214944c97db06b00c8.jpg" group-title="INDONESIA", INDOSIAR
-
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",MNC TV
-
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",G TV
-
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
-
-#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",I NEWS
-
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/ef08f1709b06c0a371b67.jpg" group-title="INDONESIA",I NEWS
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/e3ab521b6a88029be8a0b.jpg" group-title="INDONESIA",TRANS TV
-
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=transtv&goodbye=Khoerul_Television=0
-
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/70cdad8c1bd6bd0df6471.jpg" group-title="INDONESIA",TRANS 7
-
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=trans7&goodbye=Khoerul_Television=0
-
-#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",NET
-
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/1c26199103868798ead23.jpg" group-title="INDONESIA",NET
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=net&goodbye=Khoerul_Television=0
-
-#EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",METRO
-
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/097c9f641260cd274a752.jpg" group-title="INDONESIA",METRO
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=metrotv&goodbye=Khoerul_Television=0
-
-#EXTINF:-1   tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",KOMPAS
-
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/64d6b42bc464de2e95845.jpg" group-title="INDONESIA",KOMPAS
 http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=kompastv&goodbye=Khoerul_Television=0
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/d159002ab768e1281c2c2.jpg" group-title="INDONESIA", O CHANNEL
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=ochannel&goodbye=Khoerul_Television=0
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/54f197547b6f4312399ea.jpg" group-title="INDONESIA",CITRA BIOSKOP
+http://tvn.x10.biz/xchannel/master-1.m3u8
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/b2e69af517dfe693f77b4.jpg" group-title="INDONESIA",CITRA DRAMA
+http://tvn.x10.bz/xchannel/master-2.m3u8
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/9c50adf260f9ece3b6cea.jpg" group-title="INDONESIA",AJWA TV
+http://tvn.x10.bz/xchannel/master-14.m3u8
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/0d8741eadeba824f62e67.jpg" group-title="INDONESIA",CITRA MUSLIM
+http://tvn.x10.bz/xchannel/master-9.m3u8
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/034ad82e23bbc8a8a78f9.jpg" group-title="INDONESIA",CITRA DANGDUT
+http://tvn.x10.bz/xchannel/master-10.m3u8
+#EXTINF:-1   tvg-logo="https://telegra.ph/file/034ad82e23bbc8a8a78f9.jpg" group-title="INDONESIA",CITRA ENTERTAINMENT
+http://tvn.x10.bz/xchannel/master-11.m3u8
