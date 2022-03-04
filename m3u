@@ -2,9 +2,9 @@
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/84f92263e0267e33ac90a.jpg" group-title="INDONESIA",RCTI
 http://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/8e0c72d07381c32430e20.jpg" group-title="INDONESIA",SCTV
-http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=sctv&goodbye=Khoerul_Television=0
+http://tvn.x10.bz/xchannel/master-24.m3u8
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/34d214944c97db06b00c8.jpg" group-title="INDONESIA", INDOSIAR
-http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
+http://tvn.x10.bz/vidio/master.m3u8
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",MNC TV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 #EXTINF:-1   tvg-logo="https://telegra.ph/file/bc99629cfec006ae6f0be.jpg" group-title="INDONESIA",G TV
